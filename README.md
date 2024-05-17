@@ -1,1 +1,1 @@
-# geradordesenha
+# gerador de senha
